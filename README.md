@@ -1,5 +1,5 @@
 # cemantix-finder
-
+Find the daily on [Cémantix](https://cemantix.herokuapp.com/) fast with dictionnary attack ;)
 ## Install
 
 ### Deno
